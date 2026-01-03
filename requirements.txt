@@ -1,0 +1,5 @@
+streamlit
+paho-mqtt
+pandas
+plotly
+Pillow
